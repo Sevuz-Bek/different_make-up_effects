@@ -4,13 +4,12 @@ import "bootstrap";
 
 window.$ = window.jQuery = $;
 
-// import accordion from "./components/accordion";
-// import accordion from "./components/_day-night";
+// import day-night from "./components/day-night";
 
 
 
 // $(() => {
-//   polyfill.init();
+//   day-night.init();
 //   preloader.init();
 //   accordion.init();
 //   hamburgers.init();
