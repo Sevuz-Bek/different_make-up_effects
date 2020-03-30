@@ -5,12 +5,15 @@ import "bootstrap";
 window.$ = window.jQuery = $;
 
 import burgerMenu from "./components/burger-menu";
+import burgerMenuTwo from "./components/burger-menu-2";
+import moon from "./components/moon";
 
 
 
 $(() => {
   burgerMenu.init();
-//   day-night.init();
+  burgerMenuTwo.init();
+  moon.init();
 //   accordion.init();
 //   hamburgers.init();
 //   footerList.init();
