@@ -7,6 +7,12 @@ window.$ = window.jQuery = $;
 import burgerMenu from "./components/burger-menu";
 import burgerMenuTwo from "./components/burger-menu-2";
 import moon from "./components/moon";
+import accordion from "./components/accordion";
+// import moon from "./components/moon";
+// import moon from "./components/moon";
+// import moon from "./components/moon";
+// import moon from "./components/moon";
+// import moon from "./components/moon";
 
 
 
@@ -14,7 +20,7 @@ $(() => {
   burgerMenu.init();
   burgerMenuTwo.init();
   moon.init();
-//   accordion.init();
+  accordion.init();
 //   hamburgers.init();
 //   footerList.init();
 //   hero.init();
