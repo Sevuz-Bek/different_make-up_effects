@@ -57,7 +57,7 @@
         "jquery-ui-bundle": "^1.12.1-migrate",
         "node-sass": "^4.13.1",
         "popper.js": "^1.14.5",
-        "swiper": "^5.0.4",
+        "swiper": "^6.5.1",
         "throttle-debounce": "^2.1.0",
         "webpack-jquery-ui": "^2.0.1"
     }
